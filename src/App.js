@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Jenkins on Udemy
+          Using Jenkins.js instead of React 
         </a>
       </header>
       <p>
