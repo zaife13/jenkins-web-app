@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         NETLIFY_SITE_ID = '79b6e102-a2ac-4275-97a5-0ee4975201eb'
-        NETLIFY_AUTH_TOKEN = credentails('PAT_Production_JenkinsWebApp')
+        NETLIFY_AUTH_TOKEN = credentials('PAT_Production_JenkinsWebApp')
     }
 
     stages {
